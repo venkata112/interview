@@ -1,0 +1,46 @@
+li{
+    list-style-type: none; 
+    /* display: inline-block;    */
+    text-align: center;
+    padding-left: 10px;
+    border-radius: 20px;
+    border: 1px solid black;
+    background-color:bisque;    
+    padding-right: 10px;
+    margin: 10px;
+    width: 7%;
+
+       
+}
+ul.nav li Link{
+    color: aliceblue;
+}
+.sidebar{
+    position: sticky;
+    top: 10px;
+}
+
+ul {
+    height: 30px;
+    border-radius: 20px;
+}
+li:link{
+    background-color: yellow;
+}
+li :visited{
+    background-color: chocolate;
+    
+}
+li:hover{
+    color: aliceblue;
+    background-color: rgb(122, 122, 230);
+}
+li:active{
+    background-color: green;
+}
+.display{
+    margin-top: 0px; 
+    margin-left: 15%;
+}
+
+

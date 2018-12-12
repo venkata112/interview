@@ -1,0 +1,10 @@
+li.list{
+    list-style-type:square; 
+    display: block;
+    color: blueviolet;
+    background-color:rgb(247, 245, 242);    
+    border-radius: 0px;
+    
+    
+}
+
