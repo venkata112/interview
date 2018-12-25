@@ -37,8 +37,7 @@ class ChildToParent extends Component {
           </form>
   
           <br/><br/><br/><br/>
-        
-          
+
         </div>
       );
     }

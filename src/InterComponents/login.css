@@ -1,0 +1,84 @@
+#fname{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+#lname{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.fname{
+    font-weight: bold;
+}
+.lname{
+    font-weight: bold;
+}
+.login{
+    padding: 15px;
+    background-color: aqua;
+    height: auto;
+    width: auto;
+    width: 98%;
+    border-radius: 10px;
+    margin-left: 42%;
+
+}
+.regist{
+    padding: 15px;
+    background-color: rgb(184, 119, 45);
+    height: auto;
+    width: auto;
+    width: 95%;
+    border-radius: 10px;
+    margin-left: 40%;
+
+}
+
+
+
+
+
+
+
+
+
+
+/* input[type=text], select {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 40%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  } */

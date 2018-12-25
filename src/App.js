@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import Home from './components/home';
-import Child from './child';
+// import Home from './components/home';
+// import Child from './child';
 
 
 import NavigationCmp from './NavigationCmp'

@@ -5,7 +5,7 @@ li{
     padding-left: 10px;
     border-radius: 20px;
     border: 1px solid black;
-    background-color:bisque;    
+    background-color:rgb(47, 120, 129);    
     padding-right: 10px;
     margin: 10px;
     width: 7%;
@@ -13,7 +13,7 @@ li{
        
 }
 ul.nav li Link{
-    color: aliceblue;
+    color: rgb(182, 182, 207);
 }
 .sidebar{
     position: sticky;
